@@ -1,6 +1,6 @@
 # sky_music_auto_play
 任天堂Switc版「Sky 星を紡ぐ子どもたち」内で楽器を自動演奏したりMIDIキーボードで演奏したりできるプログラムです。
-このプログラムRaspberry Pi 4で実行するものです。
+このプログラムはRaspberry Pi 4 Model B上で実行するものです。
 環境構築法はプロコントローラー連射パッド化と同じです
 https://qiita.com/Bokuchin/items/0d1f81d79ff8058a729c
 
